@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Redmonkeybar">
+  <component name="PublishConfigData" serverName="Redmonkeybar" uploadOnCheckin="04a926ad-6915-454b-a811-1f1e7ac5767a">
     <serverData>
       <paths name="Redmonkeybar">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="Redmonkeybar" />
   </component>
 </project>
